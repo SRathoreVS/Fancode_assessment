@@ -32,7 +32,7 @@ This folder contains the files responsible for interacting with the external API
 1. This file contains the logic to fetch all users from the API.
 2. It exports a function called `getUsers()` that retrieves the user data from the `/users` endpoint using Axios.
 
-## 2. `src/helpers/` Folder
+## 2. `src/BuissLogic/` Folder
 This folder contains utility functions that perform specific operations or calculations, making it easier to reuse logic throughout the project.
 
 ### - `fancodeBuissLogic.js`:
